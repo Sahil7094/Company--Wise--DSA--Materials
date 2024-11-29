@@ -15,6 +15,14 @@
   - Microsoft
   - Facebook
   - Apple
+  - Goldman Sachs
+  - Jp Morgan
+  - Oracle
+  - Uber
+  - VMware
+  - Visa
+  - Walmart
+  - Adobe
 - 🛠️ **Topic-Wise DSA Resources**
   - Arrays, Strings, Recursion
   - Graphs, Trees, Dynamic Programming
