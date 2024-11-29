@@ -1,7 +1,8 @@
 # Company--Wise--DSA--Materials
 # 🚀 Company-Wise DSA Materials 
 
-![DSA Banner](https://user-images.githubusercontent.com/your-banner-image.jpg)
+
+<p><img align="left" src="[https://user-images.githubusercontent.com/your-banner-image.jpg](https://dtlive.s3.ap-south-1.amazonaws.com/16243/Business-Animated-GIF-Icon-pack-2.gif" width="100" alt="rajayush2167" /></p>
 
 > A **one-stop repository** for **interview preparation**, containing **company-wise sorted DSA questions, solutions, and study materials**. Perfect for those preparing for **FAANG, MAANG**, and other top tech companies.
 
