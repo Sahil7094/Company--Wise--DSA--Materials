@@ -52,6 +52,7 @@ Check out a sample of the resources below:
 | Amazon          | 80+                 | ✅                     | [Explore](#amazon) |
 | Microsoft       | 70+                 | ✅                     | [Explore](#microsoft) |
 
+
 ---
 
 ## 🔗 Quick Links
